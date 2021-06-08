@@ -1,4 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Lorem ipsum dolor sit amet consectetur adipiscing elit ultrices ligula,
+=======
+Lorem Ipsum is simply dummy text
+>>>>>>> 842ecc84d80c732eb47d33e4819eee013311498b
+=======
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas lorem.
 Lorem ipsum dolor sit amet consectetur adipiscing elit ultrices ligula,
 Lorem Ipsum is simply dummy text
 
+>>>>>>> ericke
